@@ -15,7 +15,7 @@ hello! here's a little about me:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
+  <img src="">
   <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
 </p>
  
