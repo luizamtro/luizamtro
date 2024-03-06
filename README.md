@@ -2,7 +2,7 @@
 hello! here's a little about me:
 
 <h1>
-  i really like music :headphones:
+  i really like music :
 </h1>
 
 <!-- Nothing weird to see here -->
