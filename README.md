@@ -1,5 +1,5 @@
 <!-- Repo has been edited to be static, see comments for dynamic calls. -->
-hello! here's a little about me:
+here's a little about me:
 
 <h1>
   i really like music :
