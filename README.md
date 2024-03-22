@@ -20,12 +20,6 @@
 
 
 
-<!--perfil / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<p align="center">
-<a href="https://stackoverflow.com/users/14602915/luiza?tab=profile"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
-
-
-
 <!--quadros-->
 <h2 align="center"> ㅤ </h2>
 <br>
