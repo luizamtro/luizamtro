@@ -1,3 +1,4 @@
+<!--macaco gif-->
 <p align="center">
 <a href="/gif/macaco-no-computador-JrSj8G" title="MACACO no computador"><img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" alt="MACACO no computador"></a><div style="font-size:11px;"> <a href="/" title="make a gif"></div>
 
@@ -41,7 +42,7 @@
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
   
-  <!--visitas-->
+<!--visitas-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0e75b6&style=flat" alt="luizamtro" /> </p>
 </p>
 
