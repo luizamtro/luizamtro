@@ -1,7 +1,5 @@
-<div align="center">
-<h2> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
-
+<p align="center">
+<a href="/gif/macaco-no-computador-JrSj8G" title="MACACO no computador"><img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" alt="MACACO no computador"></a><div style="font-size:11px;"> <a href="/" title="make a gif"></div>
 
 <!--SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
