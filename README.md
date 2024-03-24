@@ -1,6 +1,3 @@
-<!--visitas-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0e75b6&style=flat" alt="luizamtro" /> </p>
-
 <!--SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
@@ -40,5 +37,8 @@
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+  
+  <!--visitas-->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0e75b6&style=flat" alt="luizamtro" /> </p>
 </p>
   
