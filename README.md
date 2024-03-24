@@ -41,4 +41,11 @@
   <!--visitas-->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0e75b6&style=flat" alt="luizamtro" /> </p>
 </p>
+
+
+
+<!--ondas-->
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
   
