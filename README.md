@@ -2,6 +2,17 @@
 <p align="center">
 <a href="/gif/macaco-no-computador-JrSj8G" title="MACACO no computador"><img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" alt="MACACO no computador"></a><div style="font-size:11px;"> <a href="/" title="make a gif"></div>
 
+
+
+<!--spotify meu-->
+<p align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xd8zc54frytn8dtq7q2izfxt1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+
+
+
 <!--SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
