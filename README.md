@@ -12,11 +12,15 @@
 
 
   
-<!--SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
+<!--SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 </div>
 
+
+<!--YT-->
+<p align="center"><a href="https://www.youtube.com/playlist?list=PLpN5HVzQ760QibG7E8wjldCu2G5JnQRGp"><img src="https://cdn130.picsart.com/347991338040211.png?type=webp&to=min&r=250" width="500" height="470">
+</div>
 
   
 <!--montanhas / 🌐WEBSITES: https://github.com/kyechan99/capsule-render
