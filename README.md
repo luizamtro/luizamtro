@@ -19,7 +19,7 @@
 
 
 <!--YT-->
-<p align="center"><a href="https://www.youtube.com/playlist?list=PLpN5HVzQ760QibG7E8wjldCu2G5JnQRGp"><img src="https://cdn130.picsart.com/347991338040211.png?type=webp&to=min&r=250" width="500" height="470">
+<p align="center"><a href="https://www.youtube.com/playlist?list=PLpN5HVzQ760QibG7E8wjldCu2G5JnQRGp"><img src="" width="850" height="670">
 </div>
 
   
@@ -30,7 +30,7 @@
 
 <!--ondas p&b-->
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 <!--onda lgbt
@@ -44,9 +44,9 @@
 
 <br/>
 <br/>
-<!--visitas-->
+<!--visitas
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0c9e45&style=flat" alt="luizamtro" /> </p>
-</p>
+</p>-->
 
 
 
