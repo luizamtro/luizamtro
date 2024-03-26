@@ -1,10 +1,9 @@
-<!--macaco gif-->
+<!--macaco gif
 <p align="center">
-<a href="/gif/macaco-no-computador-JrSj8G" title="MACACO no computador"><img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" alt="MACACO no computador"></a><div style="font-size:11px;"> <a href="/" title="make a gif"></div>
+<a href="/gif/macaco-no-computador-JrSj8G" title="MACACO no computador"><img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" alt="MACACO no computador"></a><div style="font-size:11px;"> <a href="/" title="make a gif"></div>-->
 
-
-
-
+<p align="center">
+<img class="nowebp-fullsize-gif" src="https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-70-transparent-background-active-wave.gif" width="480" height="480" alt="ocean-wave-70-transparent-background-active-wave">
 
 <!--spotify meu
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xd8zc54frytn8dtq7q2izfxt1&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)
@@ -37,21 +36,9 @@
 
 
 
-
-<!--quadros-->
-<h2 align="center"> ㅤ </h2>
-<br>
-<p align=center>
+  <!--estatisticas: https://streak-stats.demolab.com/demo/-->
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=luizamtro&theme=react&border=61dafb&hide_border=true" alt="luizamtro" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=luizamtro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=github-dark&fire=FFFFFF&border=EBEBEB00&background=EBE6B35B" alt="GitHub Streak" /></a>
 
 <!--linguagens-->
 <p align="center">
@@ -60,13 +47,5 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
   
 <!--visitas-->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0e75b6&style=flat" alt="luizamtro" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0c9e45&style=flat" alt="luizamtro" /> </p>
 </p>
-
-
-
-<!--ondas-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-  -->
