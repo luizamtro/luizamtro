@@ -40,7 +40,9 @@
 <br/>
 <!--estatisticas: https://streak-stats.demolab.com/demo/-->
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=github-dark&fire=FFFFFF&border=EBEBEB00&background=EBE6B35B" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=dark&background=00000000&border=00000000&fire=4FAAE0" alt="GitHub Streak" /></a>" /></a>
+  
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=github-dark&fire=FFFFFF&border=EBEBEB00&background=EBE6B35B" alt="GitHub Streak" /></a>
 
 <br/>
 <br/>
