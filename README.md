@@ -33,17 +33,29 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">-->
 
 
+<br/>
+<!--estatisticas: https://streak-stats.demolab.com/demo/-->
+<div align=center>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=github-dark&fire=FFFFFF&border=EBEBEB00&background=EBE6B35B" alt="GitHub Streak" /></a>
 
-  <!--estatisticas: https://streak-stats.demolab.com/demo/-->
-  <div align=center>
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=github-dark&fire=FFFFFF&border=EBEBEB00&background=EBE6B35B" alt="GitHub Streak" /></a>
-
-<!--linguagens-->
-<p align="center">
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-  
+<br/>
+<br/>
 <!--visitas-->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0c9e45&style=flat" alt="luizamtro" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0c9e45&style=flat" alt="luizamtro" /> </p>
 </p>
+
+
+
+
+
+
+
+
+<br/>
+<br/>
+<br/>
+<!--linguagens-->
+
+<a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="right" alt="JavaScript" height ="29px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
