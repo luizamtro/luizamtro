@@ -19,7 +19,7 @@
 
 
 <!--YT-->
-<p align="center"><a href="https://www.youtube.com/playlist?list=PLpN5HVzQ760QibG7E8wjldCu2G5JnQRGp"><img src="https://cdnmf.picsart.com/cloud-storage/49ab9cdc-8273-4bf1-bf78-48d28c9a25c5.png?type=webp&to=min&r=100" width="850" height="670">
+<p align="center"><a href="https://www.youtube.com/playlist?list=PLpN5HVzQ760QibG7E8wjldCu2G5JnQRGp"><img src="https://cdnmf.picsart.com/cloud-storage/49ab9cdc-8273-4bf1-bf78-48d28c9a25c5.png?type=webp&to=min&r=100" width="900" height="530">
 </div>
 
   
@@ -40,12 +40,10 @@
 <br/>
 <!--estatisticas: https://streak-stats.demolab.com/demo/-->
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=dark&background=00000000&border=00000000&fire=4FAAE0" alt="GitHub Streak" /></a>" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=dark&background=00000000&border=00000000&fire=4FAAE0&ring=FFD83E&currStreakLabel=FFD83E" alt="GitHub Streak" /></a>
   
-<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luizamtro&theme=github-dark&fire=FFFFFF&border=EBEBEB00&background=EBE6B35B" alt="GitHub Streak" /></a>
 
-<br/>
-<br/>
+</br>
 <!--visitas
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=luizamtro&label=Profile%20views&color=0c9e45&style=flat" alt="luizamtro" /> </p>
 </p>-->
