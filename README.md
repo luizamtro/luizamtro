@@ -6,9 +6,9 @@
 
 
 
-<!--spotify meu-->
+<!--spotify meu
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xd8zc54frytn8dtq7q2izfxt1&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)
-](https://github.com/luizamtro/spotify-github-profile)
+](https://github.com/luizamtro/spotify-github-profile)-->
 
 
 
