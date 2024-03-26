@@ -2,6 +2,7 @@
 <p align="center">
 <a href="/gif/macaco-no-computador-JrSj8G" title="MACACO no computador"><img src="https://i.makeagif.com/media/3-24-2016/JrSj8G.gif" alt="MACACO no computador"></a><div style="font-size:11px;"> <a href="/" title="make a gif"></div>-->
 
+<!--onda-->
 <p align="center">
 <img class="nowebp-fullsize-gif" src="https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-70-transparent-background-active-wave.gif" width="480" height="480" alt="ocean-wave-70-transparent-background-active-wave">
 
@@ -10,10 +11,7 @@
 ](https://github.com/luizamtro/spotify-github-profile)-->
 
 
-
-
-
-
+  
 <!--SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
