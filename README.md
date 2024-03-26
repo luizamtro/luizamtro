@@ -10,13 +10,11 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xd8zc54frytn8dtq7q2izfxt1&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)
 ](https://github.com/luizamtro/spotify-github-profile)-->
 
-
   
 <!--SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile
 <p align="center">
 <a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
 </div>
-
 
 <!--YT-->
 <p align="center"><a href="https://www.youtube.com/playlist?list=PLpN5HVzQ760QibG7E8wjldCu2G5JnQRGp"><img src="https://cdnmf.picsart.com/cloud-storage/49ab9cdc-8273-4bf1-bf78-48d28c9a25c5.png?type=webp&to=min&r=100" width="900" height="530">
