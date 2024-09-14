@@ -1,7 +1,8 @@
-<body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-70-transparent-background-active-wave.gif" width="431" height="431"></body>
+<p lign="center"/p>
+          <body style="margin: 0px; height: 100%; background-color: rgb(14, 14, 14);"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://usagif.com/wp-content/uploads/2022/hqgif/ocean-wave-70-transparent-background-active-wave.gif" width="431" height="431"></body>
 
 
-
+<img src="https://cdn.pixabay.com/animation/2023/06/21/12/57/12-57-13-905__480.png"/>
 
 
 <p
