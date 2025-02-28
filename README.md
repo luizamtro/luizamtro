@@ -7,9 +7,6 @@
 <div style="text-align: center;">
     <img src="https://cdn.pixabay.com/photo/2017/07/26/13/51/ammonite-2541707_1280.png" width="300">
 </div>
-
-
-<img src="https://cdn.pixabay.com/photo/2017/07/26/13/51/ammonite-2541707_1280.png" width="300">
           
 
 <p
